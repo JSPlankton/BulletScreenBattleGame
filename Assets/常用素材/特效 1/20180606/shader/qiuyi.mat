@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: qiuyi
+  m_Shader: {fileID: 4800000, guid: 475a4e9cc994bb647b050e862f912bb5, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _node_52:
+        m_Texture: {fileID: 2800000, guid: cc0423763bc0470429e25421eea78f02, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _node_8201:
+        m_Texture: {fileID: 2800000, guid: 78e9cb4d70cdd714dac3d84a7722aac2, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Gloss: 0.8310902
+    - _Metallic: 0.09672873
+    - _node_5049: 0.02
+    m_Colors:
+    - _Color: {r: 0.4679513, g: 0.1029412, b: 1, a: 1}
+    - _node_5018: {r: 0.718864, g: 0.2720588, b: 1, a: 1}
+  m_BuildTextureStacks: []

@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: longpi
+  m_Shader: {fileID: 4800000, guid: a8a59e81971e5f5429724776cde98ccf, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _node_1933:
+        m_Texture: {fileID: 2800000, guid: fcf6d78a8772ac241a9b860a3a0ed460, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _node_3017:
+        m_Texture: {fileID: 2800000, guid: d76bd851de28c164c8af40f31dd9ff29, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _node_4714:
+        m_Texture: {fileID: 2800000, guid: 9958e69cda4116c46adefef462aaa4e7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _node_7088:
+        m_Texture: {fileID: 2800000, guid: b527f5af37389184889b717949b5ade4, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _node_7199:
+        m_Texture: {fileID: 2800000, guid: 1029af4307d16db4f9c5c14af2432cb0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _node_7199_copy:
+        m_Texture: {fileID: 2800000, guid: 1029af4307d16db4f9c5c14af2432cb0, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _node_828:
+        m_Texture: {fileID: 2800000, guid: 067f06881014f154aa818bdd9590cb75, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _node_8483:
+        m_Texture: {fileID: 2800000, guid: 85d84475629794e49895dbdfe9fcd611, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _node_9048:
+        m_Texture: {fileID: 2800000, guid: 1f276df0e92ee5a4a95bbef8a4e38814, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _node_9633:
+        m_Texture: {fileID: 2800000, guid: 3363e2f70fa307242b0374fcd0154570, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Cutoff: 0.5
+    - _node_3137: 1
+    - _node_4972: 0
+    m_Colors:
+    - _Color: {r: 1, g: 0.3442191, b: 0.1029412, a: 1}
+    - _node_3334: {r: 1, g: 0.3103448, b: 0, a: 1}
+    - _node_3955: {r: 1, g: 0.5172414, b: 0, a: 1}
+    - _node_5139: {r: 1, g: 0.7737322, b: 0.2867647, a: 1}
+    - _node_6432: {r: 1, g: 0.4758621, b: 0, a: 1}
+  m_BuildTextureStacks: []

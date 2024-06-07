@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: rongjiefazhen
+  m_Shader: {fileID: 4800000, guid: 8d0fc111b5814be43b2047d6e8944e65, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _node_1268:
+        m_Texture: {fileID: 2800000, guid: e80817c84b505e242825bf471a0a0e5a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _node_3348:
+        m_Texture: {fileID: 2800000, guid: cc0423763bc0470429e25421eea78f02, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _node_6961:
+        m_Texture: {fileID: 2800000, guid: c48b1bd0aee7d4b4ca0b69bfdcf604fe, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _node_7255:
+        m_Texture: {fileID: 2800000, guid: 79c964ea1dbfc5e43878712b0444041a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _liuwen: 5.06
+    - _node_7159: 1
+    m_Colors:
+    - _Color: {r: 0.6314401, g: 0.4191176, b: 1, a: 1}
+    - _node_4410: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []

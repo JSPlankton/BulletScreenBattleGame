@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: c77c10c2cd7b07c44bcf8a68e158b221
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - DJB Belly Button-Outtie
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: dc229ab602de91849906d6028c2ecd34, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

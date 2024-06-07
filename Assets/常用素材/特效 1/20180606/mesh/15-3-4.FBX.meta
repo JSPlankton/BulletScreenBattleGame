@@ -1,0 +1,226 @@
+fileFormatVersion: 2
+guid: ed11142349ef0654b8fb034e40cd9122
+timeCreated: 1528287274
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Box001_frag_031
+    100004: Box001_frag_032
+    100006: Box001_frag_033
+    100008: Box001_frag_034
+    100010: Box001_frag_035
+    100012: Box001_frag_036
+    100014: Box001_frag_037
+    100016: Box001_frag_038
+    100018: Box001_frag_039
+    100020: Box001_frag_040
+    100022: Box001_frag_041
+    100024: Box001_frag_042
+    100026: Box001_frag_043
+    100028: Box001_frag_044
+    100030: Box001_frag_045
+    100032: Box001_frag_046
+    100034: Box001_frag_047
+    100036: Box001_frag_048
+    100038: Box001_frag_049
+    100040: Box001_frag_050
+    100042: Box001_frag_051
+    100044: Box001_frag_052
+    100046: Box001_frag_053
+    100048: Box001_frag_054
+    100050: Box001_frag_055
+    100052: Box001_frag_056
+    100054: Box001_frag_057
+    100056: Box001_frag_058
+    100058: Box001_frag_059
+    100060: Box001_frag_060
+    400000: //RootNode
+    400002: Box001_frag_031
+    400004: Box001_frag_032
+    400006: Box001_frag_033
+    400008: Box001_frag_034
+    400010: Box001_frag_035
+    400012: Box001_frag_036
+    400014: Box001_frag_037
+    400016: Box001_frag_038
+    400018: Box001_frag_039
+    400020: Box001_frag_040
+    400022: Box001_frag_041
+    400024: Box001_frag_042
+    400026: Box001_frag_043
+    400028: Box001_frag_044
+    400030: Box001_frag_045
+    400032: Box001_frag_046
+    400034: Box001_frag_047
+    400036: Box001_frag_048
+    400038: Box001_frag_049
+    400040: Box001_frag_050
+    400042: Box001_frag_051
+    400044: Box001_frag_052
+    400046: Box001_frag_053
+    400048: Box001_frag_054
+    400050: Box001_frag_055
+    400052: Box001_frag_056
+    400054: Box001_frag_057
+    400056: Box001_frag_058
+    400058: Box001_frag_059
+    400060: Box001_frag_060
+    2300000: Box001_frag_031
+    2300002: Box001_frag_032
+    2300004: Box001_frag_033
+    2300006: Box001_frag_034
+    2300008: Box001_frag_035
+    2300010: Box001_frag_036
+    2300012: Box001_frag_037
+    2300014: Box001_frag_038
+    2300016: Box001_frag_039
+    2300018: Box001_frag_040
+    2300020: Box001_frag_041
+    2300022: Box001_frag_042
+    2300024: Box001_frag_043
+    2300026: Box001_frag_044
+    2300028: Box001_frag_045
+    2300030: Box001_frag_046
+    2300032: Box001_frag_047
+    2300034: Box001_frag_048
+    2300036: Box001_frag_049
+    2300038: Box001_frag_050
+    2300040: Box001_frag_051
+    2300042: Box001_frag_052
+    2300044: Box001_frag_053
+    2300046: Box001_frag_054
+    2300048: Box001_frag_055
+    2300050: Box001_frag_056
+    2300052: Box001_frag_057
+    2300054: Box001_frag_058
+    2300056: Box001_frag_059
+    2300058: Box001_frag_060
+    3300000: Box001_frag_031
+    3300002: Box001_frag_032
+    3300004: Box001_frag_033
+    3300006: Box001_frag_034
+    3300008: Box001_frag_035
+    3300010: Box001_frag_036
+    3300012: Box001_frag_037
+    3300014: Box001_frag_038
+    3300016: Box001_frag_039
+    3300018: Box001_frag_040
+    3300020: Box001_frag_041
+    3300022: Box001_frag_042
+    3300024: Box001_frag_043
+    3300026: Box001_frag_044
+    3300028: Box001_frag_045
+    3300030: Box001_frag_046
+    3300032: Box001_frag_047
+    3300034: Box001_frag_048
+    3300036: Box001_frag_049
+    3300038: Box001_frag_050
+    3300040: Box001_frag_051
+    3300042: Box001_frag_052
+    3300044: Box001_frag_053
+    3300046: Box001_frag_054
+    3300048: Box001_frag_055
+    3300050: Box001_frag_056
+    3300052: Box001_frag_057
+    3300054: Box001_frag_058
+    3300056: Box001_frag_059
+    3300058: Box001_frag_060
+    4300000: Box001_frag_031
+    4300002: Box001_frag_032
+    4300004: Box001_frag_033
+    4300006: Box001_frag_034
+    4300008: Box001_frag_035
+    4300010: Box001_frag_036
+    4300012: Box001_frag_037
+    4300014: Box001_frag_038
+    4300016: Box001_frag_039
+    4300018: Box001_frag_040
+    4300020: Box001_frag_041
+    4300022: Box001_frag_042
+    4300024: Box001_frag_043
+    4300026: Box001_frag_044
+    4300028: Box001_frag_045
+    4300030: Box001_frag_046
+    4300032: Box001_frag_047
+    4300034: Box001_frag_048
+    4300036: Box001_frag_049
+    4300038: Box001_frag_050
+    4300040: Box001_frag_051
+    4300042: Box001_frag_052
+    4300044: Box001_frag_053
+    4300046: Box001_frag_054
+    4300048: Box001_frag_055
+    4300050: Box001_frag_056
+    4300052: Box001_frag_057
+    4300054: Box001_frag_058
+    4300056: Box001_frag_059
+    4300058: Box001_frag_060
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 20
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
